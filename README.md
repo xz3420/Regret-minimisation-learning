@@ -1,6 +1,9 @@
 ** An individual Reasearch Project ** \
-Nov. 2023 - Jan. 2024 \
-highly related to reinforcement learning
+Nov. 2023 - Jan. 2024 
+
+highly related to reinforcement learning \
+dynamics of learning and iterated games \
+including four games: Rock, Paper, Scissors; Colonel Blotto; Liar Die; Dudo
 
 what I have done:
 1. Researched the dynamics of learning and theory of iterated games, and analysed the Nash equilibriums and convergence of four games
