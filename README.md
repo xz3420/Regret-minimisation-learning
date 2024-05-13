@@ -10,3 +10,5 @@ what I have done:
 2. Implemented three games in python, plotted graphs and tables and critically compared to the analytical results
 3. Researched and designed a Q-learning algorithm individually for the fourth game
 4. Successfully trained the agent to play the game and observed a remarkable winning rate, highest to 75%
+
+The codes and report are private. For access please email: zxy2394028190@outlook.com
